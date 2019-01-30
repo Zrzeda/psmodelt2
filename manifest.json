@@ -350,6 +350,10 @@
 				{
 				    "name": "assistedservicewebservices",
 				    "contextPath": "/assistedservicewebservices"
+				},
+				{
+				    "name": "ordermanagementwebservices",
+				    "contextPath": "/ordermanagementwebservices"
 				}
             ]
         },
