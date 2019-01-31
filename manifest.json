@@ -228,10 +228,14 @@
 		{
 			"key": "apiregistryservices.events.exporting",
 			"value": "false"
-		}       ,
+		},
 		{
 			"key": "deployment.api.endpoint",
 			"value": "https://localhost:8088"
+		},
+		{
+			"key": "apiregistryservices.events.exporting",
+			"value": "true"
 		}
     ],
     "aspects": [
