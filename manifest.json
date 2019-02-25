@@ -226,10 +226,6 @@
 			"value": "false"
 		},
 		{
-			"key": "apiregistryservices.events.exporting",
-			"value": "false"
-		},
-		{
 			"key": "deployment.api.endpoint",
 			"value": "https://localhost:8088"
 		},
