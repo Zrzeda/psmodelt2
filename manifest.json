@@ -265,10 +265,6 @@
 				    "name": "acceleratorservices",
 				    "contextPath": "/acceleratorservices"
 				},
-                {
-                    "name": "ycommercewebservices",
-                    "contextPath": "/rest"
-                },
 				{
 				    "name": "smartedit",
 				    "contextPath": "/smartedit"
