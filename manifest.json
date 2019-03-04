@@ -66,7 +66,7 @@
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
 		"outboundservices",
-		"profiletagaddon"
+		"profiletagaddon",
 		"ordermanagementaddon"
     ],
 	"storefrontAddons": [
