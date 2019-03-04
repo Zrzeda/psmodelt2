@@ -141,29 +141,9 @@
 		    "template": "yacceleratorstorefront"
 		},
 		{
-		    "addon": "profiletagaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
-		},
-		{
 		    "addon": "cmsoccaddon",
 		    "storefront": "ycommercewebservices",
 		    "template": "ycommercewebservices"
-		},
-		{
-		    "addon": "ordermanagementaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
-		},
-		{
-		    "addon": "merchandisingaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
-		},
-		{
-		    "addon": "merchandisingstorefrontsampledataaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
 		}
 	],
     "properties": [
