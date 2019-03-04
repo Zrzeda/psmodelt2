@@ -65,7 +65,8 @@
 		"kymaintegrationsampledata",
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
-		"outboundservices"
+		"outboundservices",
+		"profiletagaddon"
     ],
 	"storefrontAddons": [
 		{
