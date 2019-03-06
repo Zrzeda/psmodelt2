@@ -64,10 +64,7 @@
 		"kymaintegrationbackoffice",
 		"kymaintegrationsampledata",
 		"odata2webservices",
-		"odata2webservicesfeaturetests",
-		"outboundservices",
-		"profiletagaddon",
-		"ordermanagementaddon"
+		"odata2webservicesfeaturetests"
     ],
 	"storefrontAddons": [
 		{
@@ -82,11 +79,6 @@
 		},
 		{
 		    "addon": "smarteditaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
-		},
-		{
-		    "addon": "textfieldconfiguratortemplateaddon",
 		    "storefront": "yacceleratorstorefront",
 		    "template": "yacceleratorstorefront"
 		},
@@ -246,7 +238,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": ""
+                    "contextPath": "/yacceleratorstorefront"
                 },
                 {
                     "name": "acceleratorservices",
