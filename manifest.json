@@ -10,7 +10,9 @@
 		"commerceservicesbackoffice",
 		"solrfacetsearchbackoffice",
 		"solrserver",
+		"yacceleratorbackoffice",
 		"yacceleratorinitialdata",
+		"yacceleratorfulfilmentprocess",
 		"yacceleratorstorefront",
 		"ycommercewebservices",
 		"ycommercewebservicestest",
@@ -24,7 +26,7 @@
 		"couponbackoffice",
 		"droolsruleengineservices",
 		"couponfacades",
-		"couponservices",
+        "couponservices",
 		"promotionenginesamplesaddon",
 		"cmswebservices",
 		"smarteditwebservices",
@@ -41,6 +43,7 @@
 		"personalizationsmartedit",
 		"personalizationpromotionssmartedit",
 		"personalizationsampledataaddon",
+		"personalizationpromotionssampledataaddon",
 		"personalizationpromotions",
 		"personalizationpromotionsweb",
 		"personalizationservicesbackoffice",
@@ -50,9 +53,6 @@
 		"personalizationsearchsmartedit",
 		"personalizationsearchweb",
 		"personalizationsearchsamplesaddon",
-		"personalizationintegration",
-		"personalizationyprofile",
-		"personalizationaddon",
 		"textfieldconfiguratortemplatebackoffice",
 		"textfieldconfiguratortemplateaddon",
 		"assistedservicestorefront",
@@ -61,10 +61,12 @@
         "pcmbackofficesamplesaddon",
         "modeltacceleratorservices",
         "azurecloudhotfolder",
-		"kymaintegrationbackoffice",
-		"kymaintegrationsampledata",
+		"outboundservices",
 		"odata2webservices",
-		"odata2webservicesfeaturetests"
+		"odata2webservicesfeaturetests",
+		"profiletagaddon",
+		"kymaintegrationbackoffice",
+		"kymaintegrationsampledata"
     ],
 	"storefrontAddons": [
 		{
@@ -79,6 +81,11 @@
 		},
 		{
 		    "addon": "smarteditaddon",
+		    "storefront": "yacceleratorstorefront",
+		    "template": "yacceleratorstorefront"
+		},
+		{
+		    "addon": "textfieldconfiguratortemplateaddon",
 		    "storefront": "yacceleratorstorefront",
 		    "template": "yacceleratorstorefront"
 		},
@@ -123,14 +130,9 @@
 		    "template": "yacceleratorstorefront"
 		},
 		{
-		    "addon": "personalizationaddon",
-		    "storefront": "yacceleratorstorefront",
-		    "template": "yacceleratorstorefront"
-		},
-		{
 		    "addon": "acceleratorwebservicesaddon",
 		    "storefront": "ycommercewebservices",
-		    "template": "yacceleratorstorefront"
+		    "template": "ycommercewebservices"
 		},
 		{
 		    "addon": "cmsoccaddon",
@@ -247,10 +249,6 @@
                 {
                     "name": "ycommercewebservices",
                     "contextPath": "/rest"
-                },
-                {
-                    "name": "hac",
-                    "contextPath": "/hac"
                 },
                 {
                     "name": "oauth2",
