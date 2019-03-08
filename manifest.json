@@ -175,10 +175,6 @@
                     "contextPath": "/backoffice"
                 },
 				{
-				    "name": "yacceleratorstorefront",
-				    "contextPath": "/"
-				},
-				{
 				    "name": "smartedit",
 				    "contextPath": "/smartedit"
 				},
@@ -239,7 +235,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/"
+                    "contextPath": "/yacceleratorstorefront"
                 },
                 {
                     "name": "acceleratorservices",
