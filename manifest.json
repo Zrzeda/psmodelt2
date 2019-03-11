@@ -160,7 +160,21 @@
     "aspects": [
         {
             "name": "backoffice",
-            "properties": [],
+            "properties": [
+	    
+	                {
+	                    "key":"storefrontContextRoot",
+	                    "value":"/yacceleratorstorefront"
+	                },
+	                {
+	                    "key":"website.electronics.http",
+	                    "value":"http://accstorefront.csemea-csemeaprod-d3-public.model-t.cc.commerce.ondemand.com"
+	                },
+	                {
+	                    "key":"website.electronics.https",
+	                    "value":"https://accstorefront.csemea-csemeaprod-d3-public.model-t.cc.commerce.ondemand.com"
+	                }
+	    ],
             "webapps": [
 				{
                     "name": "hac",
