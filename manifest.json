@@ -203,6 +203,14 @@
 				{
 				    "name": "personalizationpromotionssmartedit",
 				    "contextPath": "/personalizationpromotionssmartedit"
+				},
+				{
+				    "name": "yacceleratorstorefront",
+				    "contextPath": "/yacceleratorstorefront"
+				},
+				{
+				    "name": "acceleratorservices",
+				    "contextPath": "/acceleratorservices"
 				}
             ]
         },
@@ -249,7 +257,7 @@
                 },
                 {
                     "name": "yacceleratorstorefront",
-                    "contextPath": "/yacceleratorstorefront"
+                    "contextPath": ""
                 },
                 {
                     "name": "acceleratorservices",
@@ -262,6 +270,10 @@
                 {
                     "name": "oauth2",
                     "contextPath": "/authorizationserver"
+                },
+		{
+                    "name": "hac",
+                    "contextPath": "/hac"
                 }
             ]
         },
