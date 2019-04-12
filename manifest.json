@@ -295,10 +295,7 @@
 				    "name": "acceleratorservices",
 				    "contextPath": "/acceleratorservices"
 				},
-                {
-                    "name": "ycommercewebservices",
-                    "contextPath": "/rest"
-                },
+                
 				{
 				    "name": "smartedit",
 				    "contextPath": "/smartedit"
@@ -322,10 +319,6 @@
 				{
 				    "name": "personalizationpromotionssmartedit",
 				    "contextPath": "/personalizationpromotionssmartedit"
-				},
-				{
-				    "name": "oauth2",
-				    "contextPath": "/authorizationserver"
 				},
 				{
 				    "name": "cmswebservices",
@@ -364,6 +357,15 @@
                     "key": "spring.session.enabled",
                     "value": "true"
                 },
+		    {
+                    "name": "ycommercewebservices",
+                    "contextPath": "/rest"
+                },
+		    
+				{
+				    "name": "oauth2",
+				    "contextPath": "/authorizationserver"
+				},
                 {
                     "key": "spring.session.yacceleratorstorefront.save",
                     "value":"async"
