@@ -64,7 +64,8 @@
 		"outboundservices",
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
-		"kymaintegrationbackoffice"
+		"kymaintegrationbackoffice",
+		"kymaintegrationsampledata"
     ],
 	"storefrontAddons": [
 		{
