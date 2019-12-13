@@ -155,7 +155,7 @@
 		{
 			"key": "deployment.api.endpoint",
 			"value": "https://accstorefront.csemea-csemeaprod-d3-public.model-t.cc.commerce.ondemand.com"
-		}
+		},
 		{
 			"key": "update.executeProjectData.extensionName.list",
 			"value": "kymaintegrationsampledata"
