@@ -1,6 +1,6 @@
 {
-    
-    "commerceSuiteVersion": "1811.5",
+
+    "commerceSuiteVersion": "1905",
     "troubleshootingModeEnabled":true,
     "extensions": [
      	"adaptivesearchsolr",
@@ -65,7 +65,7 @@
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
 		"kymaintegrationbackoffice",
-		"kymaintegrationsampledata"
+		"kymaintegrationservices"
     ],
 	"storefrontAddons": [
 		{
@@ -165,7 +165,7 @@
         {
             "name": "backoffice",
             "properties": [
-	    
+
 	                {
 	                    "key":"storefrontContextRoot",
 	                    "value":"/yacceleratorstorefront"
