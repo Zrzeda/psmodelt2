@@ -64,7 +64,8 @@
 		"odata2webservices",
 		"odata2webservicesfeaturetests",
 		"kymaintegrationbackoffice",
-		"kymaintegrationservices"
+		"kymaintegrationservices",
+    "sapoaacosintegration"
     ],
 	"storefrontAddons": [
 		{
