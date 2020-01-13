@@ -154,7 +154,7 @@
 			"value": "true"
 		},
 		{
-			"key": "deployment.api.endpoint",
+			"key": "ccv2.services.api.url.0",
 			"value": "https://accstorefront.csemea-csemeaprod-d3-public.model-t.cc.commerce.ondemand.com"
 		},
 		{
