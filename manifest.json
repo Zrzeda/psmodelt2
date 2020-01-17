@@ -248,9 +248,6 @@
       },
       {
          "name":"backgroundProcessing",
-         "properties":[
-​
-         ],
          "webapps":[
             {
                "name":"hac",
