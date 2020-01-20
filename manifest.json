@@ -1,6 +1,5 @@
 {
    "commerceSuiteVersion":"1905.5",
-   "useCloudExtensionPack": true,
    "extensions":[
       "ordermanagementaddon",
       "orderselfserviceaddon",
