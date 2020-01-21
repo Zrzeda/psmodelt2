@@ -160,6 +160,14 @@
 		{
 			"key": "update.executeProjectData.extensionName.list",
 			"value": "kymaintegrationservices"
+		},
+		{
+			"key": "kymaintegrationservices.truststore.cacerts.path",
+			"value": "${platformhome}/resources/devcerts/ydevelopers.jks"
+		},
+		{
+			"key": "kymaintegrationservices.truststore.password",
+			"value": "123456"
 		}
     ],
     "aspects": [
