@@ -144,6 +144,18 @@
             "key": "og4j.logger.de.hybris.platform.sap.orderexchange",
             "value": "debug"
         },
+	    {
+            "key": "log4j2.logger.sapppspricing.name",
+            "value": "com.sap.retail.sapppspricing"
+        },
+	    {
+            "key": "log4j2.logger.sapppspricing.level",
+            "value": "debug"
+        },
+	    {
+            "key": "log4j2.logger.sapppspricing.appenderRef.stdout.ref",
+            "value": "STDOUT"
+        },
         {
             "key": "backoffice.cockpit.ytestid.enabled",
             "value": "true"
